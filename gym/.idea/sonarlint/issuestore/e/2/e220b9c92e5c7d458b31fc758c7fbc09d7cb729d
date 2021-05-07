@@ -1,0 +1,46 @@
+
+U	java:S106n"9Replace this use of System.out or System.err by a logger.(÷Ã©§8á’Šü“/
+A
+java:S2129Ğ"Remove this "Long" constructor(°Õå°ÿÿÿÿÿ8á’Šü“/
+t
+java:S2293d"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ
+Y
+java:S3655>"7Call "Optional#isPresent()" before accessing the value.(ãœ¹ûÿÿÿÿ8ş¦ùû“/
+<
+java:S2129‚"Remove this "Long" constructor(şïÒô8á’Šü“/
+Z	java:S106o"9Replace this use of System.out or System.err by a logger.(ü¬®±úÿÿÿÿ8á’Šü“/
+a
+java:S1155Ó">Use isEmpty() to check whether the collection is empty or not.(©Ç¿÷şÿÿÿÿ8á’Šü“/
+U
+java:S3655ˆ"7Call "Optional#isPresent()" before accessing the value.(ÌÅôë8á’Šü“/
+Y
+java:S3655|"7Call "Optional#isPresent()" before accessing the value.(ãœ¹ûÿÿÿÿ8á’Šü“/
+\
+java:S1155æ">Use isEmpty() to check whether the collection is empty or not.(“åŒÄ8á’Šü“/
+n
+java:S1192N"XDefine a constant instead of duplicating this literal " and memberName like '%" 4 times.(á¢ˆí
+[
+java:S1155İ">Use isEmpty() to check whether the collection is empty or not.(‘ûòo8á’Šü“/
+Z
+java:S3655ƒ"7Call "Optional#isPresent()" before accessing the value.(„å··øÿÿÿÿ8á’Šü“/
+
+java:S1488ƒ"\Immediately return this expression instead of assigning it to the temporary variable "list".(„å··øÿÿÿÿ8á’Šü“/
+O
+java:S1874Ğ",Remove this use of "Long"; it is deprecated.(°Õå°ÿÿÿÿÿ8á’Šü“/
+|
+java:S2293Ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ8á’Šü“/
+m
+java:S1192a"RDefine a constant instead of duplicating this literal " and membertypes=" 3 times.(Ö­êûÿÿÿÿ
+h
+java:S1192e"FDefine a constant instead of duplicating this literal "total" 3 times.(ã‘×áúÿÿÿÿ8¯ÔÇû“/
+|
+java:S2293¢"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ8á’Šü“/
+^
+java:S1192M"HDefine a constant instead of duplicating this literal "hyname" 12 times.(Î€÷¸
+p
+java:S3776Ï"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(çÀø’8á’Šü“/
+J
+java:S1874‚",Remove this use of "Long"; it is deprecated.(şïÒô8á’Šü“/
+M
+java:S1172j"+Remove this unused method parameter "map1".(–û¯¼ıÿÿÿÿ8úš”ü“/
+Y	java:S125Š"<This block of commented-out lines of code should be removed.(ÊŸÈË8úš”ü“/

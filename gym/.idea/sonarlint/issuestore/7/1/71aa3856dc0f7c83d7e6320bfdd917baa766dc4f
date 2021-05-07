@@ -1,0 +1,8 @@
+
+N	java:S106="9Replace this use of System.out or System.err by a logger.(Šðš
+t
+java:S1488>"YImmediately return this expression instead of assigning it to the temporary variable "c".(ï€´ýùÿÿÿÿ
+`
+java:S1192"JDefine a constant instead of duplicating this literal "coachname" 6 times.(Ü•«û
+t
+java:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºýÿÿÿÿ

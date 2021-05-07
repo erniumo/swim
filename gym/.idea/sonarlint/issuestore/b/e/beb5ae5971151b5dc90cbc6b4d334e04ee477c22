@@ -1,0 +1,10 @@
+
+Z
+java:S24418"?Make "Adminuser" serializable or don't store it in the session.(³úÂƒşÿÿÿÿ
+X	java:S1253"<This block of commented-out lines of code should be removed.(óîç€8›¬×ô/
+Q	java:S125?"<This block of commented-out lines of code should be removed.(Ó¼¶ä
+c
+java:S1192'"FDefine a constant instead of duplicating this literal "login" 3 times.(Íı‡Ç8íîô/
+s
+java:S1192Z"XDefine a constant instead of duplicating this literal "WEB-INF/jsp/updPassword" 4 times.(©É÷Éüÿÿÿÿ
+X	java:S1256"<This block of commented-out lines of code should be removed.(™«îœ8ÈÊ×ô/

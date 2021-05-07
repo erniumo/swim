@@ -1,0 +1,17 @@
+
+X	java:S1254"<This block of commented-out lines of code should be removed.(™«îœ8×êô/
+z
+java:S1128"]Remove this unused import 'org.springframework.web.context.request.ServletRequestAttributes'.(şĞ‘Ÿ8ö¿®õ/
+]	java:S125`"<This block of commented-out lines of code should be removed.(ËöÊÑûÿÿÿÿ8´ÎÍ‡”/
+X	java:S125@"<This block of commented-out lines of code should be removed.(Ó¼¶ä8­§Åë/
+X	java:S1251"<This block of commented-out lines of code should be removed.(óîç€8ÿøéô/
+v
+java:S1192W"YDefine a constant instead of duplicating this literal "WEB-INF/jsp/updPassword1" 3 times.(ğï8•ïÆ‡”/
+v
+java:S1128"YRemove this unused import 'org.springframework.web.context.request.RequestContextHolder'.(ºãê8ö¿®õ/
+e
+java:S1128"CRemove this unused import 'com.guo.gymxmjpa.service.MenberDaoImpl'.(˜µ±Ãúÿÿÿÿ8“°­ì/
+j
+java:S1128"HRemove this unused import 'org.apache.commons.codec.digest.DigestUtils'.(¦×½Éşÿÿÿÿ8”¸¹õ/
+i
+java:S11927"GDefine a constant instead of duplicating this literal "login1" 3 times.(¸ñÔÀøÿÿÿÿ8¦¦Ø‡”/

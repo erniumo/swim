@@ -1,0 +1,13 @@
+
+L
+java:S3655K"7Call "Optional#isPresent()" before accessing the value.(ã‰áD
+[
+java:S4684>"@Replace this persistent entity with a simple POJO or DTO object.(Åùêúıÿÿÿÿ
+o
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(úÁşŒ
+w
+java:S1488b"\Immediately return this expression instead of assigning it to the temporary variable "loos".(–òòƒüÿÿÿÿ
+t
+java:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(æÆ¥Öûÿÿÿÿ
+[
+java:S4684V"@Replace this persistent entity with a simple POJO or DTO object.(³ÁÀµúÿÿÿÿ

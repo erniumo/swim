@@ -1,0 +1,16 @@
+
+o
+java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(úÁşŒ
+o
+java:S2293N"YReplace the type specification in this constructor call with the diamond operator ("<>").(úÁşŒ
+N
+java:S1197]"8Move the array designator from the variable to the type.(»ï
+N	java:S106^"9Replace this use of System.out or System.err by a logger.(‰À…¥
+V
+java:S4684l"@Replace this persistent entity with a simple POJO or DTO object.(Á¯ÄÃ
+W
+java:S4684˜"@Replace this persistent entity with a simple POJO or DTO object.(”æ³â
+\
+java:S4684£"@Replace this persistent entity with a simple POJO or DTO object.(’îˆÊøÿÿÿÿ
+\
+java:S4684®"@Replace this persistent entity with a simple POJO or DTO object.(†ƒĞ‡şÿÿÿÿ
